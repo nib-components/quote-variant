@@ -1,0 +1,14 @@
+{
+  "name": "@nib-components/quote-variant",
+  "version": "0.1.0",
+  "dependencies": {
+    "component-cookie": "^1.1.2"
+  },
+  "devDependencies": {
+    "sinon": "^1.15.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nib-components/quote-variant.git"
+  }
+}
