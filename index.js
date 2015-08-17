@@ -12,7 +12,7 @@ QuoteVariant.prototype.get = function () {
 
 QuoteVariant.prototype.isQuoteV1 = function () {
   var pageVarient = this.get();
-  return pageVarient === 'QuoteV1';
+  return pageVarient === 'Detail';
 };
 
 QuoteVariant.prototype.isQuoteV2 = function () {
